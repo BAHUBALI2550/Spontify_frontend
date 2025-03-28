@@ -47,8 +47,3 @@ To deploy the application:
 npm run build 
 ```
 Then deploy on **Vercel**, **Netlify**, or your preferred hosting provider.
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
----
